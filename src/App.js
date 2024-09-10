@@ -34,13 +34,13 @@ function App() {
   };
   return <>
   <NavBarNew/>
-{/* <FirstScreen/>
+<FirstScreen/>
   <ThirdScreen/>
-  <SecondScreen/> */}
-{/*  
-  <Who/> */}
-  {/* <ForthScreen/> */}
-  {/* <WhoFits/> */}
+  <SecondScreen/>
+
+  <Who/> 
+   <ForthScreen/> 
+  <WhoFits/>
    </>
 }
 
