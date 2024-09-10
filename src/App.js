@@ -37,10 +37,10 @@ function App() {
 {/* <FirstScreen/>
   <ThirdScreen/>
   <SecondScreen/> */}
- 
-  <Who/>
+{/*  
+  <Who/> */}
   {/* <ForthScreen/> */}
-  <WhoFits/>
+  {/* <WhoFits/> */}
    </>
 }
 
